@@ -1,5 +1,7 @@
 # School-website
 
+![School](https://image.mel.fm/i/v/v9QK4SCTny/590.png)
+
 For a long time I wanted to create a project on this topic. After a short vacation, I want to consolidate the material covered and master new technologies.
 
 ## Functionality
@@ -34,6 +36,18 @@ For a long time I wanted to create a project on this topic. After a short vacati
    PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
 
    https://www.postgresql.org/
+
+4. **Redis**
+
+   Redis is an open source NoSQL class resident database management system that works with key-value data structures.
+
+   https://redis.io/
+
+5. **RabbitMQ**
+
+   RabbitMQ is a software message broker based on the AMQP standard, a replicable message-oriented middleware.
+
+   https://www.rabbitmq.com/
 
 ## Start using
 
