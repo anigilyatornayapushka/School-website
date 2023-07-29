@@ -19,6 +19,16 @@ For a long time I wanted to create a project on this topic. After a short vacati
 
 ## Requirements
 
+1. **Create .env file in root directory and add following values:**
+
+   ```.env
+   SECRET_KEY=your project secret key
+   DEBUG=TRUE / FALSE
+   DB_NAME=name of database
+   DB_USER=username
+   DB_PASS=user password
+   ```
+
 1. **Python**
 
    Python is a high-level, general-purpose programming language with dynamic strong typing and automatic memory management.
